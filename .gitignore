@@ -6,3 +6,9 @@
 *.db-shm
 *.db-wal
 *.opendb
+*.json
+*.ipch
+*.sqlite
+*.vsidx
+*.wsuo
+/.gitignore

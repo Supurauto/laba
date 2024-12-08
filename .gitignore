@@ -2,13 +2,5 @@
 # Данный GITIGNORE-файл был автоматически создан Microsoft(R) Visual Studio.
 ################################################################################
 
-*.db
-*.db-shm
-*.db-wal
-*.opendb
-*.json
-*.ipch
-*.sqlite
-*.vsidx
-*.wsuo
-/.gitignore
+/.vs/laba/v17
+/.vs/laba/FileContentIndex
